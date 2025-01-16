@@ -2,8 +2,8 @@ import boto3
 
 AWS_S3_BUCKET_NAME = 'pdfdatastorage'
 AWS_REGION = 'eu-north-1'
-AWS_ACCESS_KEY = 'AKIASDRANKD6YWBT64EK'
-AWS_SECRET_KEY = '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'
+AWS_ACCESS_KEY = ''
+AWS_SECRET_KEY = ''
 
 LOCAL_FILE = 'C:/Users/agvai/Downloads/Assignment_Tasks.docx.pdf'
 NAME_FOR_S3 = 'Assignment_Tasks.pdf'
