@@ -19,6 +19,6 @@ function togglemenu(){
     leftmenubutton.classList.toggle('hidden');
 }
 
-document.getElementById("togglemenu").addEventListener('click',togglemenu);
+document.getElementById("togglebutton").addEventListener('click',togglemenu);
 window.addEventListener('resize',sizeadjust);
 window.addEventListener('load',sizeadjust);

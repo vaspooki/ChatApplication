@@ -9,14 +9,13 @@ html,body{
     height: auto;
     position: fixed;
     top: 0;
-    text-align: center;
+    text-align: left;
     background-color: aquamarine;
     color: white;
     padding: 10px 0;
 }
 
-.togglebutton{
-    margin-top: 30px;
+#togglebutton{
     margin-left: 10px;
     padding: 10px;
     cursor: pointer;
